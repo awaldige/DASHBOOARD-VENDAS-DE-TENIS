@@ -45,12 +45,13 @@ dashboard-vendas-tenis/
 
 Baixe ou visualize a planilha utilizada no projeto:
 
-📥 [Download da planilha](# 📊 Planilha de Dados
-
-Baixe ou visualize a planilha utilizada no projeto:
-
 📥 [Download da planilha](planilha_vendas_tenis.xlsx)
 
+📸 Prévia
+
+![IMG_1350](https://github.com/user-attachments/assets/b2e5948f-0528-4ad2-a7f3-4ab817836a12)
+![IMG_1356](https://github.com/user-attachments/assets/3c57f23d-bdb1-43f5-afa3-4f28f6d1cce5)
+![IMG_1358](https://github.com/user-attachments/assets/fe51eb4e-0d42-4766-b3c7-6c3431ef167b)
 
 ▶️ Como Executar o Projeto
 
